@@ -1,1 +1,18 @@
-
+body {
+    background-image: url("C:/Users/deepa/OneDrive/Documents/Desktop/download (4).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .box1{
+    margin;
+    border: 3px;
+    background-color: lightskyblue;
+    width: 300px;
+    
+  }
+  .type{
+    border: 3px;
+    background-color: black;
+    
+  }
